@@ -1,1 +1,6 @@
 zipUtils
+
+*.bad_jar
+*.good_jar
+
+__debug_bin*
